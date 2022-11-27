@@ -10,6 +10,7 @@ if(Esta condicion se cumple)}{
 */
 
 /*EJEMPLO: segun la nota que un alumno digite en nuestro programa indicarle si aprobo o no*/
+#include<stdio.h>
 
 int main()
 {
